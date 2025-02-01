@@ -3,3 +3,9 @@ FOOD FAVORIRES
 1. Pizza
 2. Nutlove Vegan
 3. Spaghetti Bolognese
+
+FAVORITE MOVIES
+
+1. Heat
+2. The Godfather
+3. Aliens
