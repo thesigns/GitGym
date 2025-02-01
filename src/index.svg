@@ -4,6 +4,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <rect id="background" width="100" height="100"/>
     <circle id="middlecirc" cx="0" cy="0" r="100"/>
-    <text id="circlabel" x="110" y="110">SVG</text>
+    <text id="circlabel" x="110" y="110">GitGym</text>
     <script type="text/javascript" xlink:href="main.js"></script>
 </svg>
