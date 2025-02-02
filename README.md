@@ -1,4 +1,4 @@
-# GitGym 0.2
+# GitGym 0.3
 
 GitGym is a simple Git training repository.
 
