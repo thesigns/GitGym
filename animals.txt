@@ -1,7 +1,0 @@
-bats
-cats
-cows
-dogs
-hedgehogs
-pigs
-turtles
